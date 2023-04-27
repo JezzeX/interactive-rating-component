@@ -1,0 +1,16 @@
+{
+  "name": "interactive-rating-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tailwindcss -i ./src/input.css -o ./public/style/styles.css",
+    "watch": "npx tailwindcss -i ./src/input.css -o ./public/style/styles.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
