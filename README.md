@@ -14,7 +14,7 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ### Links
 
-- Live Site URL: [Interactive rating component](https://jezzex-faq-accordion-card.netlify.app)
+- Live Site URL: [Interactive rating component](https://jezzex-interactive-rating-component.netlify.app/)
 
 ### Built with
 
