@@ -21,7 +21,7 @@ submitBtn.addEventListener("click", () => {
 ratingBtns.forEach(ratingBtn => {
     ratingBtn.addEventListener("click", () => {
         ratingBtns.forEach((btn) => {
-            btn.classList.remove("bg-lightGrey");
+            btn.classList.remove("bg-lightGrey", "text-white");
         });
         ratingBtn.classList.add("bg-lightGrey", "text-white");
         rating.textContent = ratingBtn.textContent;
